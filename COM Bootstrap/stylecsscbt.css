@@ -1,0 +1,24 @@
+header p{
+    color: black;
+}
+
+h1 {
+    font-size: 63px;
+    color: white;
+}
+
+h2{
+    font-size: 28px;
+  
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+    font-size:  80px;
+    color: yellow;
+    text-shadow: 2px 2px 2px black;
+    font-weight: 600;
+}
+footer{
+    color: blue;
+}
